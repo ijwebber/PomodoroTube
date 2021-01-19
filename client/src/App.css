@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.Video {
+  height: 27vw;
+  width: 48vw;
+
+  position: absolute; /* or absolute */
+  top: 50%;
+  left: 50%;
+  margin-top: -13.5vw;
+  margin-left: -24vw;
+}
+
+input {
+  margin-top: 10vh;
+  width: 40vw;
+  height: 2vw;
+  font-size: 20px;
+}
